@@ -4,9 +4,12 @@
   background-color: #FFFFFF;
   padding-bottom: 15px;
 }
-
 h1, .tagline {
   text-align: center;
+  font-weight: bold;
+}
+h1{
+  padding-top: 35px;
 }
 
 body {
@@ -22,13 +25,19 @@ body {
 
 h2 {
   margin-left: 30px;
+  margin-right: 30px;
+  padding-top: 35px;
+  padding-bottom: 15px;
+  border-bottom: 3px solid #DFB88F;
 }
-
+.images{
+  padding-left: 10px;
+}
 section img{
   width: 50px;
   height: 50px;
-  padding-bottom: 15px;
-  padding-left: 15px;
+  padding-bottom: 5px;
+  padding-left: 5px;
 }
 
 a {
